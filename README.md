@@ -1,5 +1,7 @@
 # Campaign Manager
 
+[![Actions Status](https://github.com/mennan/campaign-manager/workflows/Test/badge.svg)](https://github.com/mennan/campaign-manager/actions)
+
 ## Used Technologies
 
 - .NET Core 3.1
